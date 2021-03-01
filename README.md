@@ -30,8 +30,6 @@ Note: The emulator is sometimes slow and doesn't behave correctly when app is in
 brew install yarn
 ```
 
-- We have created a basic app using [create-react-native-app](https://github.com/expo/create-react-native-app) that runs on iOS and Android. To run it, please run:
-
 ```
 yarn
 ```
