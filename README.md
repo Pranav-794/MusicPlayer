@@ -2,6 +2,7 @@
 
 Goal: Create a user friendly music player app. I took some inspiration for Apple Music, since they have a very user friendly user experience. Hope you like it! :) This was a super fun project to work on. I wish I could work on it more!
 
+Features:
 - Library - where a user gets to see the list of songs they can listen to
   - User can start play and pause
   - User can click on a song for its details to control it
